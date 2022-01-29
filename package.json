@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "devat-vietnam",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
