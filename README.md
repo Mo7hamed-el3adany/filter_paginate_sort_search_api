@@ -1,4 +1,4 @@
-# Build a Restful API with Nodejs  Express and Mongodb Typescript
+# Restful API with Nodejs  Express and Mongodb Typescript
 # 👉 C.R.U.D, Filter, Paginate, Sort and Search API.
 I - Setup
   1. npm i express.    
